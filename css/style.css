@@ -1,0 +1,109 @@
+/* profile.css */
+html {
+  background-color: #f5f7f9;
+}
+
+body {
+  background: none;
+  color: #69707a;
+  font-family: verdana;
+  
+}
+
+strong {
+  color: #222324;
+}
+
+.navbar {
+  background: #2bbebf;
+}
+
+.btn {
+  font-weight: 300;
+}
+
+.btn-primary {
+  background: #2bbebf;
+  border-color: #2bbebf;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #e05164;
+  border-color: #e05164;
+}
+
+.card {
+  border-color: #ccc;
+}
+
+.card-title {
+  color: #2bbebf;
+  font-weight: 300;
+}
+
+.card-block small {
+  float: right;
+}
+
+.description {
+  /*background-image: url("img/logo.png");*/
+  background-repeat: repeat-x;
+}
+
+.main {
+  background-image: url("../img/logoa.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+
+.prof {
+     border-radius: 50%;
+}
+
+.display-3 {
+   color: white;
+   font-size: 30px;
+
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: unset;
+  width: 40%;
+}
+
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+
+.for {
+  text-align: center;
+}
+
+element.style {
+    text-align: -webkit-center;
+}
+
+.ENG {
+  color: #2bbebf;
+  font-weight: 300;
+}
