@@ -18,6 +18,9 @@ strong {
   background: #2bbebf;
 }
 
+.navbar2 {
+  background: white;
+}
 .btn {
   font-weight: 300;
 }
@@ -107,3 +110,19 @@ element.style {
   color: #2bbebf;
   font-weight: 300;
 }
+
+.brand {
+
+  color: #2bbebf;
+
+}
+/*
+.navbar-inverse .navbar-brand, .navbar-inverse .navbar-toggler {
+    color: #32c7c1;
+} */
+
+.navbar-inverse .nav-link2 {
+    color: #2bbebf;
+}
+
+
